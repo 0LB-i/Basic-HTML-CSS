@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 80px;
+}
+p{
+    color: aqua;
+}
+
+/* Comentário */ 
+
+.txt{
+    color: green;
+}
+
+#title-h1{
+    color: orange;
+}
