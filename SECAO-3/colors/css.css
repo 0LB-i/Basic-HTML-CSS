@@ -16,3 +16,15 @@ p{
 #title-h1{
     color: orange;
 }
+
+.nome{
+    color: red;
+}
+
+.hexa{
+    color: #1f2df5;
+}
+
+.rgba{
+    color: rgba(44, 167, 65, 0.712);
+}
